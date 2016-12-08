@@ -1,0 +1,38 @@
+SplineFontDB: 1.0
+FontName: Untitled1
+FullName: Untitled1
+FamilyName: Untitled1
+Weight: Medium
+Copyright: Created by Alan Hussey,,, with FontForge 1.0 (http://fontforge.sf.net)
+Comments: 2006-8-12: Created.
+Version: 001.000
+ItalicAngle: 0
+UnderlinePosition: -100
+UnderlineWidth: 50
+Ascent: 800
+Descent: 200
+XUID: [1021 815 1383343632 73481]
+OS2TypoAscent: 0
+OS2TypoAOffset: 1
+OS2TypoDescent: 0
+OS2TypoDOffset: 1
+OS2TypoLinegap: 0
+OS2WinAscent: 0
+OS2WinAOffset: 1
+OS2WinDescent: 0
+OS2WinDOffset: 1
+HheadAscent: 0
+HheadAOffset: 1
+HheadDescent: 0
+HheadDOffset: 1
+OS2Vendor: 'PfEd'
+Encoding: ISO8859-1
+UnicodeInterp: none
+DisplaySize: -24
+AntiAlias: 1
+FitToEm: 1
+WinInfo: 0 16 16
+OnlyBitmaps: 1
+BeginChars: 256 0
+EndChars
+EndSplineFont
