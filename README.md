@@ -4,9 +4,12 @@ A set of template file for Ubuntu.
 ## Supported Template Files
 ```
 /Templates
-    /
-    /mpl
-    /
+    /Empty Text File.txt
+    /Graphics
+    /Program Files
+    /Script Files
+    /Office
+    /Others
 ```
 
 ## Installation Guide
