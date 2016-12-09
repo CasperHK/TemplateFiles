@@ -1,5 +1,5 @@
 # TemplateFiles
-A set of template file for Ubuntu.
+A set of template files for Ubuntu user.
 
 <br/>
 
