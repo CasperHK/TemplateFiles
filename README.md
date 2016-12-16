@@ -8,8 +8,20 @@ A set of template files for Ubuntu user to create file easily.
 /Templates
     /Empty Text File.txt
     /Graphics
+        /Blender File.blend
+        /GIMP File.xcf
+        /Scalable Vector Graphic.svg
+        /Xara Xtreme Graphic.xar
     /Program Files
     /Script Files
+        /Shell Script.sh
+        /Bash Script.bash
+        /HTML File.html
+        /JavaScript.js
+        /package.json
+        /Perl Script.pl
+        /Python Script.py
+        /React Class.js
     /Office
     /Others
 ```
