@@ -23,6 +23,11 @@ A set of template files for Ubuntu user to create file easily.
         /Python Script.py
         /React Class.js
     /Office
+        /Microsoft Office
+            /Word Document.doc
+            /Powerpoint Presentation.pot
+            /Excel Spreadsheet.xlt
+        /OpenDocument
     /Others
 ```
 
